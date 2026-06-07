@@ -1,2 +1,0 @@
-# urbantruthlab
-UrbanTruthLab Intelligence Platform
